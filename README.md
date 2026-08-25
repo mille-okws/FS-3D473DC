@@ -7,9 +7,11 @@ Exploring and documenting the hardware and software of a **Foston FS-3D473DC aut
 This repository contains my notes, discoveries, experiments, and documentation while trying to understand what is inside this little device — and, eventually, what else it can do.
 
 ---
+
 **🇧🇷 Português:** [README.pt-BR.md](README.pt-BR.md)
 
 **🇺🇸 English:** You are here.
+
 ---
 
 ## 🔍 What I've found so far

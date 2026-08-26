@@ -33,7 +33,82 @@ Further investigation is required to determine:
 ```text
 \
 ├── Windows/
-├── ...
+│   ├── Desktop/
+│   ├── Favorites/
+│   ├── Fonts/
+│   ├── Programs/
+│   │   ├── File Viewers/
+│   │   │   ├── JETCET PDF Viewer
+│   │   │   ├── Office 2003 Excel Viewer
+│   │   │   ├── Office 2003 PowerPoint Viewer
+│   │   │   └── Office 2003 Word Viewer
+│   │   ├── Media Player/
+│   │   └── Windows Explorer/
+│   ├── Recent/
+│   └── StartUp/
+│
+├── appUpdate
+├── BacklightCTL BMQ
+├── BSPCodebase
+├── BSPVersion
+├── btsecurity
+│
+├── calibrui_0401
+├── calibrui_0402
+├── calibrui_0404
+├── calibrui_0405
+├── calibrui_0406
+├── calibrui_0407
+├── calibrui_0408
+├── calibrui_0409
+├── calibrui_040b
+├── calibrui_040c
+├── calibrui_040d
+├── calibrui_040e
+├── calibrui_0410
+├── calibrui_0411
+├── calibrui_0412
+├── calibrui_0413
+├── calibrui_0414
+├── calibrui_0415
+├── calibrui_0416
+├── calibrui_0418
+├── calibrui_0419
+├── calibrui_041b
+├── calibrui_041d
+├── calibrui_041e
+├── calibrui_041f
+├── calibrui_0424
+├── calibrui_0425
+├── calibrui_0427
+├── calibrui_0804
+├── calibrui_0813
+├── calibrui_081a
+├── calibrui_0C0A
+│
+├── ceconfig
+├── CheckNaNDFlashType
+├── chimes
+├── click
+├── docviewer
+├── EARTH_M
+├── Exit
+├── FmtTest
+├── godspeed
+├── GodSpeed (shortcut)
+├── IAU1980
+├── Identity-H
+├── Identity-V
+├── iesample
+├── KillProc
+├── loader
+├── LogOutput
+├── MOON
+├── mt6612
+├── mt6612_E2
+├── Octopus
+├── pdfviewer
+│
 └── ...
 ```
 
